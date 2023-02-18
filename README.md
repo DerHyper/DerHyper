@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DerHyper
 
-Look at my Art stuff here: https://www.instagram.com/derhypernight/
+Look at my Website here: https://hyperstudios.de/
 
 <!---
 DerHyper/DerHyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
