@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DerHyper
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHyper)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHyper&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHyper&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Look at my Website here: https://hyperstudios.de/
 
