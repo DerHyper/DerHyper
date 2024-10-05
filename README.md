@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerHyper
+- 👋 Hi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHyper&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHyper&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
