@@ -16,9 +16,9 @@ I mostly work on university and game projects using a wide variety of languages 
 
 ## About Me
 
-- I am a cat person
-- Into collecting retro games
-- Grinding in game jams since 2024
+- 🐈 I am a cat person
+- 🕹️ Into collecting retro stuff - games, consoles, cassettes
+- 🖌️ Drawing and painting for fun
 
 <!---
 DerHyper/DerHyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
