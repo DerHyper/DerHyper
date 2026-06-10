@@ -1,9 +1,24 @@
-- 👋 Hi
+## Hey there 🔥
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerHyper&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerHyper&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I'm Max, a computer science master's student & game developer based in Düsseldorf, Germany.
 
-Look at my Website here: https://hyperstudios.de/
+I mostly work on university and game projects using a wide variety of languages and tools.
+
+---
+
+## Tools & Tech I use
+
+- 🎮 C#, Unity, Godot
+- ⚙️ Java, Python, C, Rust, JavaScript, Clojure, Event-B
+- 🎨 Figma, Notion, Aseprite
+
+---
+
+## About Me
+
+- I am a cat person
+- Into collecting retro games
+- Grinding in game jams since 2024
 
 <!---
 DerHyper/DerHyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
